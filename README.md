@@ -58,7 +58,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## Contributors
-- [Your Name](https://github.com/ibucz)
+- [AHMED ABDULAZIZ](https://github.com/ibucz)
 
 Feel free to contribute to this project by submitting issues or pull requests! 🚀
 

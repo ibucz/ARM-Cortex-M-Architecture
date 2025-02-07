@@ -1,0 +1,6 @@
+"./NVIC_driver.obj"
+"./main.obj"
+"./systick_driver.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
